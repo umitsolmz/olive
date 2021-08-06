@@ -6,12 +6,12 @@
     <message>
         <location filename="../render/audioparams.cpp" line="177"/>
         <source>%1 Hz</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1 Hz</translation>
     </message>
     <message>
         <location filename="../render/audioparams.cpp" line="184"/>
         <source>Mono</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Mono</translation>
     </message>
     <message>
         <location filename="../render/audioparams.cpp" line="186"/>
@@ -21,22 +21,22 @@
     <message>
         <location filename="../render/audioparams.cpp" line="188"/>
         <source>2.1</source>
-        <translation type="unfinished">144p {2.1?}</translation>
+        <translation type="unfinished">2.1</translation>
     </message>
     <message>
         <location filename="../render/audioparams.cpp" line="190"/>
         <source>5.1</source>
-        <translation type="unfinished">144p {5.1?}</translation>
+        <translation type="unfinished">5.1</translation>
     </message>
     <message>
         <location filename="../render/audioparams.cpp" line="192"/>
         <source>7.1</source>
-        <translation type="unfinished">144p {7.1?}</translation>
+        <translation type="unfinished">7.1?</translation>
     </message>
     <message>
         <location filename="../render/audioparams.cpp" line="194"/>
         <source>Unknown (0x%1)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Adsız</translation>
     </message>
 </context>
 <context>
@@ -44,24 +44,26 @@
     <message>
         <location filename="../config/config.cpp" line="195"/>
         <source>Error loading settings</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ayarlar yüklenirken hata oluştu</translation>
     </message>
     <message>
         <location filename="../config/config.cpp" line="196"/>
         <source>Failed to load application settings. This session will use defaults.
 
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Uygulama ayarları yüklenemedi. Bu oturum varsayılanları kullanacak. 
+            
+%1</translation>
     </message>
     <message>
         <location filename="../config/config.cpp" line="214"/>
         <source>Error saving settings</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ayarlar kaydedilirken hata oluştu</translation>
     </message>
     <message>
         <location filename="../config/config.cpp" line="215"/>
-        <source>Failed to save application settings. The application may lack write permissions to this location.</source>
-        <translation type="unfinished"></translation>
+        <source>Failed to save application settings. The application may lack write permissions for this location.</source>
+        <translation type="unfinished">Uygulama ayarları kaydedilemedi. Uygulamanın bu konuma yazma izni olmayabilir.</translation>
     </message>
 </context>
 <context>
@@ -69,22 +71,22 @@
     <message>
         <location filename="../project/item/footage/footage.cpp" line="246"/>
         <source>%1 FPS</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1 FPS</translation>
     </message>
     <message>
         <location filename="../project/item/footage/footage.cpp" line="251"/>
         <source>%1 Hz</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1 Hz</translation>
     </message>
     <message>
         <location filename="../project/item/footage/footage.cpp" line="331"/>
         <source>Filename: %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Dosya adı: %1</translation>
     </message>
     <message>
         <location filename="../project/item/footage/footage.cpp" line="344"/>
         <source>This footage is not valid for use</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Bu görüntü kullanım için geçerli değil</translation>
     </message>
 </context>
 <context>
@@ -92,12 +94,12 @@
     <message>
         <location filename="../widget/timelinewidget/tool/import.cpp" line="317"/>
         <source>Don&apos;t ask me again</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tekrar Sorma</translation>
     </message>
     <message>
         <location filename="../widget/timelinewidget/tool/import.cpp" line="322"/>
         <source>No Active Sequence</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Aktif Sıra Yok</translation>
     </message>
     <message>
         <location filename="../widget/timelinewidget/tool/import.cpp" line="323"/>
